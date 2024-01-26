@@ -25,9 +25,11 @@ Welcome to the official website of the Blockchain and Cybersecurity Club at NMIT
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
 2. Install dependencies:
+    ```bash
    npm install
 
-3. Start the development server:
+4. Start the development server:
+    ```bash
    npm start
 
 ### Features
