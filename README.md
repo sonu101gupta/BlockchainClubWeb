@@ -33,10 +33,10 @@ Welcome to the official website of the Blockchain and Cybersecurity Club at NMIT
    npm start
 
 ### Features
-1. Information Pages: Explore detailed information about the Blockchain and Cybersecurity Club.
-2. Responsive Carousel: Engaging visual content using the react-responsive-carousel library.
-3. Smooth Scrolling: Implemented with react-router-hash-link for a seamless navigation experience.
-4. Stylish Design: Enhanced styling using Sass for maintainable and structured stylesheets.
+- **Information Pages**: Explore detailed information about the Blockchain and Cybersecurity Club.
+- **Responsive Carousel**: Engaging visual content using the react-responsive-carousel library.
+- **Smooth Scrolling**: Implemented with react-router-hash-link for a seamless navigation experience.
+- **Stylish Design**: Enhanced styling using Sass for maintainable and structured stylesheets.
 
 ### Contributing
    We welcome contributions from the community! If you'd like to contribute to the development of this website, please follow our Contribution Guidelines.
